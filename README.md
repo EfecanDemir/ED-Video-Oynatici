@@ -5,8 +5,8 @@
 
 Kodlama dili C#. 
 
-## • Açılışta uygulama tanıtım arayüzü
-## • Video/Müzik oynatma bölümü
+####  • Açılışta uygulama tanıtım arayüzü
+### • Video/Müzik oynatma bölümü
 ## • Klasik video işlevleri (durdur, başlat, duraklat, ileri-geri sarma, vb.)
 ## • Altyazılı video oynatabilme özelliği
 ## • Yavaş, normal ve hızlı video hızı değiştirebilme
