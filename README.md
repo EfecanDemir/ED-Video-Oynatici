@@ -5,16 +5,16 @@
 
 Kodlama dili C#. 
 
-• Açılışta uygulama tanıtım arayüzü
-• Video/Müzik oynatma bölümü
-• Klasik video işlevleri (durdur, başlat, duraklat, ileri-geri sarma, vb.)
-• Altyazılı video oynatabilme özelliği
-• Yavaş, normal ve hızlı video hızı değiştirebilme
-• Url ile istenilen video oynatma 
-• Url ile istenilen videoyu mp4-mp3 formatında indirme
-• Gündemdeki radyo kanallarını dinleme
-• Anlık ses analizini görme
-• 3 farklı uygulama modunda (Açık,koyu ve normal mod) kullanabilme
+## • Açılışta uygulama tanıtım arayüzü
+## • Video/Müzik oynatma bölümü
+## • Klasik video işlevleri (durdur, başlat, duraklat, ileri-geri sarma, vb.)
+## • Altyazılı video oynatabilme özelliği
+## • Yavaş, normal ve hızlı video hızı değiştirebilme
+## • Url ile istenilen video oynatma 
+## • Url ile istenilen videoyu mp4-mp3 formatında indirme
+## • Gündemdeki radyo kanallarını dinleme
+## • Anlık ses analizini görme
+## • 3 farklı uygulama modunda (Açık,koyu ve normal mod) kullanabilme
 
 
 ## Giriş Bölümü
